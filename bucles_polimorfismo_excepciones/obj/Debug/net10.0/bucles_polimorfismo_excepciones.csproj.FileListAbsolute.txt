@@ -1,0 +1,15 @@
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.exe
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.deps.json
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.runtimeconfig.json
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.dll
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\bin\Debug\net10.0\bucles_polimorfismo_excepciones.pdb
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.AssemblyInfoInputs.cache
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.AssemblyInfo.cs
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.csproj.CoreCompileInputs.cache
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.sourcelink.json
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.dll
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\refint\bucles_polimorfismo_excepciones.dll
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.pdb
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\bucles_polimorfismo_excepciones.genruntimeconfig.cache
+C:\Users\andre\new_copy\bucles_polimorfismo_excepciones\obj\Debug\net10.0\ref\bucles_polimorfismo_excepciones.dll
